@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/jayk/GameDev/FTS/FTS/Client/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
